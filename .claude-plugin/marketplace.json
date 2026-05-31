@@ -1,0 +1,15 @@
+{
+  "name": "gocapy-market-intelligence",
+  "owner": {
+    "name": "Go Capy",
+    "url": "https://gocapy.com"
+  },
+  "plugins": [
+    {
+      "name": "gocapy-market-intelligence",
+      "source": ".",
+      "description": "Go Capy market intelligence plugin: standalone monitoring feeds (defense/aerospace contracts, future industry digests). Independent of the AI SDR pipeline.",
+      "category": "monitoring"
+    }
+  ]
+}
