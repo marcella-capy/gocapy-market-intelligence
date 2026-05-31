@@ -1,0 +1,8 @@
+{
+  "name": "gocapy-market-intelligence",
+  "description": "Go Capy market intelligence plugin: standalone feeds that watch external sources (defense/aerospace contracts, future industry monitors) and produce digest reports. Independent of the AI SDR pipeline.",
+  "author": {
+    "name": "Marcella @ Go Capy",
+    "email": "marcella@gocapy.com"
+  }
+}
